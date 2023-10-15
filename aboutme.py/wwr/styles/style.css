@@ -7,7 +7,7 @@ body, h1, h2, h3, p, ul, ol, li, figure, figcaption {
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Roboto, Helvetica, sans-serif;
     line-height: 1.6;
 }
 
@@ -17,7 +17,10 @@ body {
 }
 
 /* Centering */
-nav a{text-align: center;}
+nav a{text-decoration: none;
+    color: #fcfbfb;
+    text-align: center;
+    padding: 35px;}
 #hero-msg h1{text-align: center;}
  #hero-msg h4{text-align: center;}
 .button-box{text-align: center;}
@@ -27,65 +30,67 @@ main section{text-align: center;}
 flex-direction: column;
 align-items: center;
 justify-content: center;
-text-align: center;}
+text-align: center;
+margin: 200px 0;}
 .camping-card{display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    text-align: center;}
+    text-align: center;
+    margin: 200px 0;}
 .rapids-card{display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    text-align: center;}
+    text-align: center;
+    margin: 200px 0;
+    margin-bottom: 200px;}
 #background {
     height: 725px;
 }
 
 /* Background Colors */
-body {
-    background-color: #fcfbfb;
-}
+body {background-color: #fcfbfb;
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;}
+    h2{margin: 0;}
 
 header {
     background-color: rgba(20, 30, 13, 0.7);
 }
 
-nav a:hover {
-    background-color: black;
-}
-
-
-#background,
-.msg {background-color: #dac3a4;}
 .msg {margin-bottom: 2%;}
 footer {background-color: #6f7364;}
 
 /* Foreground Colors */
-nav a{background-color: black;
-color: white;}
 nav a:hover{background-color: black;
             color: white;}
-.home-title{color: black}
-h4{color: black;}
-.book,.join{background-color: #dac3a4;
-color: black;}
-.book:hover,.join:hover{background-color: #dac3a4;color:black;}
-.msg h2 {background-color: #6f7364;
-    color:white;}
-    .msg p{background-color: #6f7364;
-    color: white;}
-footer,
-footer a{background-color:rgba(217,194,163,255)364;    color: #dac3a4;}
-footer a:hover {background-color:rgba(217,194,163,255);
-color:#dac3a4 ;}
- 
+.book,.join{background-color: #d9c3a3;
+color: black;
+font-size: 18px;
+padding: 10px 30px;
+margin-top: 50px;
+border-radius: 5px;}
+.book :hover, .join:hover {background-color: #d9c3a3;
+color: white;}
+.msg {background-color: #6f7364;
+    color:white;
+    padding: 35px;
+    margin-bottom: 2%;
+    margin-top: 200px;}
+    .msg p{font-size: .8em;
+color: white;
+line-height: 1.5em;
+padding-bottom: 15px;}
     /* Add your text colors here */
 
 /* Widths */
 .logo{width: 80px;
-}
+padding-top: 5px;}
 .icon{width: 80px;
+    padding: 10px;
 }
 
 #hero-img {
@@ -112,5 +117,27 @@ footer p {
 footer p a:hover {
     text-decoration: underline;
 }
-footer p {font-size: 1.2em;}
+footer p {font-size: 1.2em;
+        color: #d9c3a3;}
 footer p a:hover{text-decoration: underline;}
+.home-title{font-family: monospace, Helvetica, sans-serif;
+font-size: 2em;
+margin-top: 10px;
+color: #dac3a4;}
+footer{padding: 25px 50px;
+margin-top: 200px;}
+footer .social img {padding-top: 15px;}
+moutains-picture{margin-top: 200px;
+    margin-bottom: 200px;
+padding-top: 20px;
+background-color: #d9c3a3;}
+main section img {box-sizing: border-box;}
+.card-img {border: 10px solid #d9c3a3;}
+main section {box-sizing: border-box;}
+#background {background-color: #d9c3a3;
+height: 500px;
+margin-bottom: 200px;}
+.rivers-card .card-img, .camping-card .card-img,
+.rapids-card .card-img, .rivers-card .icon, .camping-card .icon, .rapids-card .icon{display: flex;
+align-items: center;
+margin-right: 10px;}
