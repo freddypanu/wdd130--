@@ -42,7 +42,7 @@
   height: 200px; 
   background-color: red;
   position: absolute;
-  top 
+  top: 0; 
 } 
 .green2 { 
   width: 200px; 
