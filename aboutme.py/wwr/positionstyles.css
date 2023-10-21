@@ -75,7 +75,7 @@
 /* Activity 3 styles */ 
 .content3 {display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows:;
+  grid-template-r;
   gap: 0;
   /* This is the parent of the activity 3 boxes. */
 }
