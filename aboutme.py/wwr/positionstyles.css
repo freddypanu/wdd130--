@@ -2,7 +2,7 @@
 /* Activity 1 styles */
 .content1 {display: grid;
           grid-template-columns: 1fr 1fr;
-    
+          
   /* This is the parent of the activity 1 boxes. */
 
 }
