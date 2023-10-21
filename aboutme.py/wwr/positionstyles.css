@@ -157,7 +157,7 @@
 .yellow5 {
   width: 100px; 
   height: 100px; 
-  grid-template-columns: 1f;
+  grid-template-columns: 1fr;
   background-color: gold; 
 
 } 
