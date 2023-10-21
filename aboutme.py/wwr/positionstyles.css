@@ -158,7 +158,7 @@
   width: 100px; 
   height: 100px; 
   grid-template-columns: 1fr;
-  grid
+  grid-row: ;
   background-color: gold; 
 
 } 
