@@ -171,7 +171,7 @@
 /* Activity 6 styles */ 
 .content6 {display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-  grid-column: 1f 1fr 1fr 1;
+  grid-column: 1f 1fr 1fr 1fr;
     z-index: 4;
 
   /* This is the parent of the activity 6 boxes. */
