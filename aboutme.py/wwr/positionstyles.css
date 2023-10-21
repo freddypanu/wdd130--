@@ -181,7 +181,7 @@
   width: 100px; 
   height: 100px; 
   background-color: red;
-  grid-template-columns:1/4;
+  grid-te1/4;
   grid-row: 1/2; 
 } 
 .green6 {
