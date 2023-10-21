@@ -108,7 +108,7 @@
 /* Activity 4 styles */ 
 .content4 {display: grid;
   grid-template-columns: 1fr 1fr;
-  grid
+  grid-row: 3;
   /* This is the parent of the activity 4 boxes. */
   height: 400px;
 }
