@@ -34,7 +34,7 @@
   grid-template-columns: 1fr 1fr 1fr ;
   grid-row: 5;
   justify-items: center;
-  gap: 10px;
+  gap: px;
   /* This is the parent of the activity 2 boxes. */
 }
 .red2 {
