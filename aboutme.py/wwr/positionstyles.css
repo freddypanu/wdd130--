@@ -88,7 +88,7 @@
 .green3 {
   width: 500px; 
   height: 300px; 
-  grid-column: ;
+  grid-column: 1/;
   background-color: green;
   margin-right: 50px;
 
