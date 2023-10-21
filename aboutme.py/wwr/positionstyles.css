@@ -3,6 +3,7 @@
 .content1 {display: grid;
           grid-template-columns: 1fr 1fr;
           justify-items: center;
+          g
   /* This is the parent of the activity 1 boxes. */
 
 }
