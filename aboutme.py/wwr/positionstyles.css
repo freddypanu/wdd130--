@@ -178,7 +178,7 @@
   /* This is the parent of the activity 6 boxes. */
 }
 .red6 {
-  width: 600p; 
+  width: 600px; 
   height: 200px; 
   background-color: red;
   grid-column: 1/5;
