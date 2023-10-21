@@ -170,7 +170,7 @@
 } 
 /* Activity 6 styles */ 
 .content6 {display: grid;
-  grid-template-columns: repeat();
+  grid-template-columns: repeat(5 );
   /* This is the parent of the activity 6 boxes. */
 }
 .red6 {
