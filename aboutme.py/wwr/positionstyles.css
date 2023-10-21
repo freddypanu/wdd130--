@@ -194,7 +194,7 @@
 } 
 .yellow6 {
   width: 200px; 
-  height: 400%; 
+  height: 100%; 
   background-color: gold;
   grid-column: 5/7;
   grid-row: 3/7; 
