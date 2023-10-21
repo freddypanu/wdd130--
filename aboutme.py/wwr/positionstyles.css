@@ -97,7 +97,7 @@
 } 
 .blue3 {
   width: 100%;
-  height: 100px; 
+  height: 1px; 
   background-color: blue;
   grid-column: 1/3; 
 } 
