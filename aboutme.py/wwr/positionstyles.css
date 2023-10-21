@@ -202,7 +202,7 @@
   z-index: 2;
 } 
 .blue6 {
-  width: 60; 
+  width: 600px; 
   height: 500px; 
   background-color: blue;
   grid-column: 2/6;
