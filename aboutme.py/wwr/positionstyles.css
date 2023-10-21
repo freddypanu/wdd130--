@@ -179,7 +179,7 @@
 }
 .red6 {
   width: 400px; 
-  height: 2%; 
+  height: 20; 
   background-color: red;
   grid-column: 1/5;
   grid-row: 1/3; 
