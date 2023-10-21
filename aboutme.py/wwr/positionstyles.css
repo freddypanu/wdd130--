@@ -31,7 +31,7 @@
 } 
 /* Activity 2 styles */ 
 .content2 {display: grid;
-  grid-template-columns: 1fr 1fr 1 ;
+  grid-template-columns: 1fr 1fr 1fr ;
   grid-row: 5;
   justify-items: center;
   gap: 20px;
