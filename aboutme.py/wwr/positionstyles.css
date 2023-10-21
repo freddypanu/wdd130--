@@ -169,7 +169,8 @@
   background-color: blue; 
 } 
 /* Activity 6 styles */ 
-.content6 {display: ;
+.content6 {display: grid;
+  
   /* This is the parent of the activity 6 boxes. */
 }
 .red6 {
