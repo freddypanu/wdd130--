@@ -41,7 +41,8 @@
   width: 200px; 
   height: 200px; 
   background-color: red;
-  position: absolute; 
+  position: absolute;
+  t 
 } 
 .green2 { 
   width: 200px; 
@@ -61,7 +62,7 @@
   width: 200px; 
   height: 200px; 
   background-color: blue;
-   
+  position: absolute; 
 } 
 /* Activity 3 styles */ 
 .content3 {
