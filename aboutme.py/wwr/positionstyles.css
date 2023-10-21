@@ -48,8 +48,8 @@
   height: 200px; 
   background-color: green;
   grid-column: 1/-auto;
-  top: 1000%;
-  right: 50pxs; 
+  top: 100%;
+  right: 50p; 
 } 
 .yellow2 {
   width: 200px; 
