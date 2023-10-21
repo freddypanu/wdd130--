@@ -197,7 +197,7 @@
   height: 500px; 
   background-color: gold;
   grid-column: 5/7;
-  margin-top: ;
+  margin-top: 50;
   grid-row: 3/7; 
   z-index: 2;
 } 
