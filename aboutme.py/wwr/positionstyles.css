@@ -76,7 +76,6 @@
 .content3 {display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0;
-
   /* This is the parent of the activity 3 boxes. */
 }
 .red3 {
@@ -107,7 +106,7 @@
   grid-column: 1/3; 
 } 
 /* Activity 4 styles */ 
-.content4 {
+.content4 {dis
   /* This is the parent of the activity 4 boxes. */
   height: 400px;
 }
