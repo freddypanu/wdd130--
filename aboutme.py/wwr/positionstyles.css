@@ -43,7 +43,7 @@
   background-color: red;
   grid-column: 1/2;
   top: 0
-  left:; 
+  left: 0; 
 } 
 .green2 { 
   width: 200px; 
