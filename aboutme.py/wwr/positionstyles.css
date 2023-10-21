@@ -172,7 +172,7 @@
 .content6 {display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-column: 6;
-  grid-row: ;
+  grid-row: 6;
     z-index: 4;
 
   /* This is the parent of the activity 6 boxes. */
@@ -181,7 +181,7 @@
   width: 100px; 
   height: 100px; 
   background-color: red;
-  grid-template-columns: 1/4;
+  grid-template-columns:1/4;
   grid-row: 1/2; 
 } 
 .green6 {
