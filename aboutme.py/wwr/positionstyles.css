@@ -185,7 +185,8 @@
   grid-row: 1/3; 
 } 
 .green6 {
-  height: 100px; 
+  width: 100%; 
+  height: 00px; 
   background-color: green;
   grid-column: 1/3;
   grid-row: 5/7; 
