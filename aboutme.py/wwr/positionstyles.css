@@ -47,7 +47,7 @@
   width: 200px; 
   height: 200px; 
   background-color: green;
-  grid-column: 0/-50;
+  grid-column: ;
   top: 50%;
   right: 50pxs; 
 } 
