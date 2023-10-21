@@ -57,7 +57,7 @@
 } 
 .yellow2 {
   width: 100px; 
-  height: 200px; 
+  height: 100px; 
   grid-column: 2,5;
   background-color: gold;
   margin-bottom: 200px;
