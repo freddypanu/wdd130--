@@ -172,7 +172,7 @@
 .content6 {display: grid;
   grid-template-columns: repeat(5 1ft);
   grid-row: 6;
-  z
+  z-index: ;
 
   /* This is the parent of the activity 6 boxes. */
 }
