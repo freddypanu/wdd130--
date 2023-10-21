@@ -38,7 +38,7 @@
   /* This is the parent of the activity 2 boxes. */
 }
 .red2 {
-  width: 0px; 
+  width: 100px; 
   height: 200px; 
   background-color: red;
   grid-column: 1/2;
