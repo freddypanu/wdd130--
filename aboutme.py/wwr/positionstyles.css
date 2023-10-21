@@ -31,7 +31,7 @@
 } 
 /* Activity 2 styles */ 
 .content2 {display: grid;
-  grid-template-columns: re 1fr ;
+  grid-template-columns: repeat(2) 1fr ;
   grid-row: 5;
   justify-items: center;
   gap: 20px;
