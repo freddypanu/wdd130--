@@ -39,7 +39,7 @@
 }
 .red2 {
   width: 100px; 
-  height: 100px; 
+  height: 200px; 
   background-color: red;
   grid-column: 1/2;
   top: 0;
