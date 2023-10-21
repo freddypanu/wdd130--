@@ -170,7 +170,7 @@
 } 
 /* Activity 6 styles */ 
 .content6 {display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1f
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr
   grid-row: 6;
   z-index: 4;
 
