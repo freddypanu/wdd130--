@@ -205,7 +205,7 @@
   background-color: blue;
   grid-column: 2/6;
   grid-row: 2/6; 
-  z
+  z-index: 2;
 } 
 
 
