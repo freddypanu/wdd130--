@@ -67,10 +67,10 @@
 .blue2 {
   width: 200px; 
   height: 200px; 
-  grid-column: ;
+  grid-column: 3;
   background-color: blue;
   margin-bottom: 300px; 
-  margin-right: px;
+  margin-right: 5px;
 } 
 /* Activity 3 styles */ 
 .content3 {
