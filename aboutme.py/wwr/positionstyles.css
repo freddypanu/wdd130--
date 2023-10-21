@@ -67,7 +67,7 @@
 .blue2 {
   width: 200px; 
   height: 200px; 
-  grid-column: 2;
+  grid-column: 3,;
   background-color: blue;
   margin-bottom: 500%; 
   margin-right: px;
