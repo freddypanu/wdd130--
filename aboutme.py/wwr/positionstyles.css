@@ -41,14 +41,14 @@
   width: 200px; 
   height: 200px; 
   background-color: red;
-  grid-column: 1/ 
+  grid-column: 1/2; 
 } 
 .green2 { 
   width: 200px; 
   height: 200px; 
   background-color: green;
   grid-column: 1/2;
-  margin-bottom: 50px; 
+  margin-: 50px; 
 } 
 .yellow2 {
   width: 200px; 
