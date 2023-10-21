@@ -96,7 +96,7 @@
 .yellow3 {
   width: 500px; 
   height: 300px; 
-  grid-column: 2/3;
+  grid-column: ;
   background-color: gold; 
   margin-left: 50px;
 } 
