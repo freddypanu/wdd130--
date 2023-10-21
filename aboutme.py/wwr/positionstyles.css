@@ -180,7 +180,8 @@
   width: 100px; 
   height: 100px; 
   background-color: red;
-  grid-template-columns: 1/5; 
+  grid-template-columns: 1/5;
+  g 
 } 
 .green6 {
   width: 100px; 
