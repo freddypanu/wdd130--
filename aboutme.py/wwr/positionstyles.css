@@ -47,8 +47,8 @@
   width: 200px; 
   height: 200px; 
   background-color: green;
-  grid-column: 1/-aut;
-  top: 50%;
+  grid-column: 1/-auto;
+  top: 10%;
   right: 50pxs; 
 } 
 .yellow2 {
