@@ -172,12 +172,12 @@
 .content6 {display: grid;
   grid-template-columns: repeat(5 1ft);
   grid-row: 6;
-  z-index: ;
+  z-index: 4;
 
   /* This is the parent of the activity 6 boxes. */
 }
 .red6 {
-  width: 100%; 
+  width: 100p; 
   height: 100px; 
   background-color: red; 
 } 
