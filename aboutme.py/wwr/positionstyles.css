@@ -114,8 +114,9 @@
 }
 .red4 {
   width: 100px; 
-  height: 100; 
-  background-color: red; 
+  height: 100%; 
+  background-color: red;
+  g 
 } 
 .green4 {
   width: 100px; 
