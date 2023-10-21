@@ -155,10 +155,10 @@
 
 } 
 .yellow5 {
-  width: 100px; 
+  width: 100p; 
   height: 100px; 
   grid-template-columns: 1fr;
-  grid-row: 2/;
+  grid-row: 2/3;
   background-color: gold; 
 
 } 
