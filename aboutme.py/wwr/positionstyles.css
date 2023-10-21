@@ -109,7 +109,7 @@
 .content4 {display: grid;
   grid-template-columns: 1fr 1fr;
   grid-row: 3;
-  gap
+  gap: 0;
   /* This is the parent of the activity 4 boxes. */
   height: 400px;
 }
