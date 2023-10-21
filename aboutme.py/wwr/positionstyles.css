@@ -193,8 +193,7 @@
   z-index: 2;
 } 
 .yellow6 {
-  width: 200px
-; 
+  width: 200p; 
   height: 100%; 
   background-color: gold;
   grid-column: 5/7;
