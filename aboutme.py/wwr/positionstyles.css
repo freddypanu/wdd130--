@@ -55,12 +55,13 @@
   width: 200px; 
   height: 200px; 
   background-color: gold;
-  
+  position: absolute;
 } 
 .blue2 {
   width: 200px; 
   height: 200px; 
-  background-color: blue; 
+  background-color: blue;
+   
 } 
 /* Activity 3 styles */ 
 .content3 {
