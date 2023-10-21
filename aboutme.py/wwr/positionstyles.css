@@ -137,7 +137,7 @@
   background-color: blue; 
 } 
 /* Activity 5 styles */ 
-.content5 {grid-template-columns: max-content;
+.content5 {grid-template-columns: max-conten
   /* This is the parent of the activity 5 boxes. */
   height: 400px;
 }
