@@ -73,7 +73,10 @@
   margin-top: -300px;
 } 
 /* Activity 3 styles */ 
-.content3 {
+.content3 {display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  gap: 20px;
   /* This is the parent of the activity 3 boxes. */
 }
 .red3 {
