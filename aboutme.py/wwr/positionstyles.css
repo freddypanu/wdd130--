@@ -41,9 +41,7 @@
   width: 200px; 
   height: 200px; 
   background-color: red;
-  position: absolute;
-  top: 0;
-  right: 0; 
+  position: absolute; 
 } 
 .green2 { 
   width: 200px; 
@@ -51,8 +49,7 @@
   background-color: green;
   grid-column: 1/2;
   margin-bottom: 50px;
-  position: absolute;
-  c 
+  position: absolute; 
 } 
 .yellow2 {
   width: 200px; 
@@ -63,8 +60,7 @@
 .blue2 {
   width: 200px; 
   height: 200px; 
-  background-color: blue;
-  position: absolute; 
+  background-color: blue; 
 } 
 /* Activity 3 styles */ 
 .content3 {
