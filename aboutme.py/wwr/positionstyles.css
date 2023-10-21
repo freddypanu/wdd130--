@@ -170,7 +170,7 @@
 } 
 /* Activity 6 styles */ 
 .content6 {display: grid;
-  grid-template-columns: 100px 100px 100px 100px 100px 100PX
+  grid-template-columns: 100px 100px 100px 100px 100px 100px;
   grid-column: 6;
   grid-row: 6;
 
@@ -178,7 +178,7 @@
   /* This is the parent of the activity 6 boxes. */
 }
 .red6 {
-  width: 600px; 
+  width: 400px; 
   height: 300px; 
   background-color: red;
   grid-column: 1/5;
