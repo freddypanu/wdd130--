@@ -32,7 +32,7 @@
 /* Activity 2 styles */ 
 .content2 {display: grid;
   grid-template-columns: 1fr 1fr 1fr ;
-  gri
+  grid-row: ;
   justify-items: center;
   gap: 10px;
   /* This is the parent of the activity 2 boxes. */
