@@ -69,7 +69,7 @@
   height: 200px; 
   grid-column: 1/3;
   background-color: blue; 
-  margin-left: 1000px;
+  margin-left: 0px;
   margin-top: -300px;
 } 
 /* Activity 3 styles */ 
