@@ -170,7 +170,7 @@
 } 
 /* Activity 6 styles */ 
 .content6 {display: grid;
-  grid-template-columns: 1fr 1fr 1
+  grid-template-columns: 1fr 1fr 1fr
   grid-column: 6;
   grid-row: 6;
   gap: 20px;
