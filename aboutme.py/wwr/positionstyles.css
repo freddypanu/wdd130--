@@ -90,7 +90,7 @@
   height: 300px; 
   grid-column: 1/2;
   background-color: green;
-  margin-right: 100px;
+  margin-right: px;
 
 } 
 .yellow3 {
@@ -98,7 +98,7 @@
   height: 300px; 
   grid-column: 2/3;
   background-color: gold; 
-  margin-left: 50px;
+  margin-right: 50px;
 } 
 .blue3 {
   width: 100%;
