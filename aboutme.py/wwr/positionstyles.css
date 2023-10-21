@@ -42,7 +42,7 @@
   height: 200px; 
   background-color: red;
   grid-column: 1/2;
-  top 
+  top: 0; 
 } 
 .green2 { 
   width: 200px; 
