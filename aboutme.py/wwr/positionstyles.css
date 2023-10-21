@@ -107,6 +107,7 @@
 } 
 /* Activity 4 styles */ 
 .content4 {display: grid;
+  g
   /* This is the parent of the activity 4 boxes. */
   height: 400px;
 }
