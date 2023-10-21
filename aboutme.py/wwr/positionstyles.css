@@ -138,6 +138,7 @@
 } 
 /* Activity 5 styles */ 
 .content5 {grid-template-columns: 1fr;
+  gr
   /* This is the parent of the activity 5 boxes. */
   height: 400px;
 }
