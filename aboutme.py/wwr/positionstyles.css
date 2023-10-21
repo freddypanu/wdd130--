@@ -58,10 +58,10 @@
 .yellow2 {
   width: 200px; 
   height: 200px; 
-  grid-column: 2,;
+  grid-column: 2,5;
   background-color: gold;
   margin-bottom: 200px;
-  margin-left: 70%; 
+  margin-left: 75%; 
 } 
 .blue2 {
   width: 200px; 
