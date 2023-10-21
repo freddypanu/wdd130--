@@ -164,7 +164,7 @@
   background-color: blue; 
 } 
 /* Activity 6 styles */ 
-.content6 {gr
+.content6 {grid-template-rows: ;
   /* This is the parent of the activity 6 boxes. */
 }
 .red6 {
