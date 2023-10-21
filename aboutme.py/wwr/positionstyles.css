@@ -47,7 +47,8 @@
   width: 200px; 
   height: 200px; 
   background-color: green;
-  grid-column: 1/; 
+  grid-column: 1/2;
+  m 
 } 
 .yellow2 {
   width: 200px; 
